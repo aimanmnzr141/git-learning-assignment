@@ -1,0 +1,23 @@
+Technical Skills
+
+- Git
+- GitHub
+- PHP
+- MySQL
+- HTML
+- CSS
+- Networking Fundamentals
+- Cybersecurity Fundamentals
+- VMware Workstation
+- GNS3
+- Cisco Packet Tracer
+- Kali-linux
+
+Soft Skills
+
+- Problem Solving
+- Teamwork
+- Communication
+- Time Management
+- Adaptability
+
