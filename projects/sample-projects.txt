@@ -1,0 +1,15 @@
+Project Name:
+Alumni Connect
+
+Description:
+Alumni Connect is a web-based platform developed to strengthen communication between students and alumni. The platform provides features such as user profiles, mentorship, job and internship postings, group discussions, event management, and sponsorship opportunities.
+
+Technologies Used:
+- PHP
+- MySQL
+- HTML
+- CSS
+- Javascript
+
+Purpose:
+To create a centralized platform that helps students connect with alumni for career guidance, networking, and professional development.
