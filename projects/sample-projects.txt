@@ -13,3 +13,10 @@ Technologies Used:
 
 Purpose:
 To create a centralized platform that helps students connect with alumni for career guidance, networking, and professional development.
+
+Key Features:
+- Alumni Directory
+- Job and Internship Portal
+- Mentorship
+- Event Management
+- Discussion Forums
